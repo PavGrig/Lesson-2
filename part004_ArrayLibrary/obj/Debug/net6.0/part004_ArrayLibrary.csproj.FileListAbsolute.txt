@@ -1,0 +1,15 @@
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part004_ArrayLibrary\bin\Debug\net6.0\part004_ArrayLibrary.exe
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part004_ArrayLibrary\bin\Debug\net6.0\part004_ArrayLibrary.deps.json
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part004_ArrayLibrary\bin\Debug\net6.0\part004_ArrayLibrary.runtimeconfig.json
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part004_ArrayLibrary\bin\Debug\net6.0\part004_ArrayLibrary.dll
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part004_ArrayLibrary\bin\Debug\net6.0\part004_ArrayLibrary.pdb
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part004_ArrayLibrary\obj\Debug\net6.0\part004_ArrayLibrary.csproj.AssemblyReference.cache
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part004_ArrayLibrary\obj\Debug\net6.0\part004_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part004_ArrayLibrary\obj\Debug\net6.0\part004_ArrayLibrary.AssemblyInfoInputs.cache
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part004_ArrayLibrary\obj\Debug\net6.0\part004_ArrayLibrary.AssemblyInfo.cs
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part004_ArrayLibrary\obj\Debug\net6.0\part004_ArrayLibrary.csproj.CoreCompileInputs.cache
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part004_ArrayLibrary\obj\Debug\net6.0\part004_ArrayLibrary.dll
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part004_ArrayLibrary\obj\Debug\net6.0\refint\part004_ArrayLibrary.dll
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part004_ArrayLibrary\obj\Debug\net6.0\part004_ArrayLibrary.pdb
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part004_ArrayLibrary\obj\Debug\net6.0\part004_ArrayLibrary.genruntimeconfig.cache
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part004_ArrayLibrary\obj\Debug\net6.0\ref\part004_ArrayLibrary.dll

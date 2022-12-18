@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "part004_ArrayLibrary/1.0.0": {
+        "runtime": {
+          "part004_ArrayLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "part004_ArrayLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
