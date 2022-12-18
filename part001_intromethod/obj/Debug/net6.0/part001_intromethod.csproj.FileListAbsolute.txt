@@ -1,0 +1,15 @@
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part001_intromethod\bin\Debug\net6.0\part001_intromethod.exe
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part001_intromethod\bin\Debug\net6.0\part001_intromethod.deps.json
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part001_intromethod\bin\Debug\net6.0\part001_intromethod.runtimeconfig.json
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part001_intromethod\bin\Debug\net6.0\part001_intromethod.dll
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part001_intromethod\bin\Debug\net6.0\part001_intromethod.pdb
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part001_intromethod\obj\Debug\net6.0\part001_intromethod.csproj.AssemblyReference.cache
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part001_intromethod\obj\Debug\net6.0\part001_intromethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part001_intromethod\obj\Debug\net6.0\part001_intromethod.AssemblyInfoInputs.cache
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part001_intromethod\obj\Debug\net6.0\part001_intromethod.AssemblyInfo.cs
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part001_intromethod\obj\Debug\net6.0\part001_intromethod.csproj.CoreCompileInputs.cache
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part001_intromethod\obj\Debug\net6.0\part001_intromethod.dll
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part001_intromethod\obj\Debug\net6.0\refint\part001_intromethod.dll
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part001_intromethod\obj\Debug\net6.0\part001_intromethod.pdb
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part001_intromethod\obj\Debug\net6.0\part001_intromethod.genruntimeconfig.cache
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\Leson2\part001_intromethod\obj\Debug\net6.0\ref\part001_intromethod.dll
