@@ -1,0 +1,15 @@
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\part002_intromethod\bin\Debug\net6.0\part002_intromethod.exe
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\part002_intromethod\bin\Debug\net6.0\part002_intromethod.deps.json
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\part002_intromethod\bin\Debug\net6.0\part002_intromethod.runtimeconfig.json
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\part002_intromethod\bin\Debug\net6.0\part002_intromethod.dll
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\part002_intromethod\bin\Debug\net6.0\part002_intromethod.pdb
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\part002_intromethod\obj\Debug\net6.0\part002_intromethod.csproj.AssemblyReference.cache
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\part002_intromethod\obj\Debug\net6.0\part002_intromethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\part002_intromethod\obj\Debug\net6.0\part002_intromethod.AssemblyInfoInputs.cache
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\part002_intromethod\obj\Debug\net6.0\part002_intromethod.AssemblyInfo.cs
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\part002_intromethod\obj\Debug\net6.0\part002_intromethod.csproj.CoreCompileInputs.cache
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\part002_intromethod\obj\Debug\net6.0\part002_intromethod.dll
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\part002_intromethod\obj\Debug\net6.0\refint\part002_intromethod.dll
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\part002_intromethod\obj\Debug\net6.0\part002_intromethod.pdb
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\part002_intromethod\obj\Debug\net6.0\part002_intromethod.genruntimeconfig.cache
+D:\Обучение ИТ\Лекции\Знакомство с языками программирования\Лекции\part002_intromethod\obj\Debug\net6.0\ref\part002_intromethod.dll
